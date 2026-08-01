@@ -36,17 +36,13 @@ Currently focused on Node.js, TypeScript, PostgreSQL and modern backend architec
 
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
 
-<img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
 
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
 
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-
-<img src="https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=C21325"/>
 
 </p>
 
@@ -58,10 +54,6 @@ Currently focused on Node.js, TypeScript, PostgreSQL and modern backend architec
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=willianXYZ&show_icons=true&theme=github_dark&hide_border=true"/>
 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianXYZ&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p>
-  <img height="170" src="https://streak-stats.demolab.com?user=willianXYZ&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
