@@ -1,12 +1,12 @@
 # Hi, I'm Willian Barbosa 👋
 
-Backend Developer focused on building reliable and well-structured software.
+Backend Developer passionate about building reliable and well-structured software.
 
-I'm passionate about understanding how technologies work under the hood, designing clean APIs, and continuously improving my backend development skills.
+I enjoy understanding how technologies work under the hood before using them, designing clean REST APIs, and continuously improving my backend development skills.
 
-Currently focused on Node.js, TypeScript, PostgreSQL and modern backend architecture.
+I believe strong fundamentals, curiosity, and continuous learning are the foundation of great software.
 
-> *"Strong fundamentals build better software."*
+> *"Curiosity builds knowledge. Strong fundamentals build great software."*
 
 ---
 
@@ -50,7 +50,7 @@ Currently focused on Node.js, TypeScript, PostgreSQL and modern backend architec
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=willianXYZ&show_icons=true&theme=github_dark&hide_border=true"/>
 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianXYZ&layout=compact&theme=github_dark&hide_border=true"/>
