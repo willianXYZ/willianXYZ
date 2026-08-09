@@ -45,5 +45,5 @@ I believe that strong fundamentals, curiosity, and continuous learning are the f
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRmNWptM3B4NWE1N2ptdXdtYzJtNTJldzg2Nzk1d3l4ZmhrcTdxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgkDZjbfe06GN8Y/giphy.gif" width="100%" height="87"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRmNWptM3B4NWE1N2ptdXdtYzJtNTJldzg2Nzk1d3l4ZmhrcTdxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgkDZjbfe06GN8Y/giphy.gif" width="100%" height="90"/>
 </p>
