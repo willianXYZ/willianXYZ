@@ -17,12 +17,12 @@ I believe that strong fundamentals, curiosity, and continuous learning are the f
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
 
-  <a href="mailto:willianbarbosa1356@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  <a href="https://instagram.com/__willianoliveira" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
 
-  <a href="https://github.com/willianXYZ" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <a href="mailto:willianbarbosa1356@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 </p>
 
