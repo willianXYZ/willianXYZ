@@ -17,7 +17,7 @@ I believe that strong fundamentals, curiosity, and continuous learning are the f
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
 
-  <a href="mailto:willianbarbosa1356@gmail.com">
+  <a href="mailto:willianbarbosa1356@gmail.com">v1.Y2lkPTc5MGI3NjExNmY1dGhvMTJ1Mm1lOXd5dnJmanN2eWU4cG9jdzcxNGM2ZGUzOG9lciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YlNUVWjiZ6wKY/giphy.gif
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 
@@ -45,5 +45,5 @@ I believe that strong fundamentals, curiosity, and continuous learning are the f
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRmNWptM3B4NWE1N2ptdXdtYzJtNTJldzg2Nzk1d3l4ZmhrcTdxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgkDZjbfe06GN8Y/giphy.gif" width="100%" height="90"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRmNWptM3B4NWE1N2ptdXdtYzJtNTJldzg2Nzk1d3l4ZmhrcTdxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgkDZjbfe06GN8Y/giphy.gif" width="100%" height="94"/>
 </p>
